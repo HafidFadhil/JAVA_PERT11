@@ -1,0 +1,1 @@
+ClassBufferedReader.GetInputFromKeyboard
